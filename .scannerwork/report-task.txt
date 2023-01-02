@@ -1,0 +1,6 @@
+projectKey=fullcycly-go
+serverUrl=http://localhost:8084
+serverVersion=8.7.1.42226
+dashboardUrl=http://localhost:8084/dashboard?id=fullcycly-go
+ceTaskId=AYV0hX3bjWVsIZaHCux0
+ceTaskUrl=http://localhost:8084/api/ce/task?id=AYV0hX3bjWVsIZaHCux0
