@@ -1,6 +1,0 @@
-projectKey=fullcycly-js
-serverUrl=http://localhost:8084
-serverVersion=8.7.1.42226
-dashboardUrl=http://localhost:8084/dashboard?id=fullcycly-js
-ceTaskId=AYV0wIBdjWVsIZaHCuyG
-ceTaskUrl=http://localhost:8084/api/ce/task?id=AYV0wIBdjWVsIZaHCuyG
